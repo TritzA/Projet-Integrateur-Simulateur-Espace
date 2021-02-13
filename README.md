@@ -20,6 +20,8 @@ Acceuil
 
 ![alt text](https://github.com/TritzA/ProjetIntegrateur_Cours4SIM/blob/main/images/menu.PNG)
 
+### Partie Simulation
+
 Partie simulation d'espace extraplanétaire 2D : Interface de base
 
 ![alt text](https://github.com/TritzA/ProjetIntegrateur_Cours4SIM/blob/main/images/simulation%20vierge.PNG)
@@ -39,6 +41,8 @@ Partie simulation d'espace extraplanétaire 2D : Exemple d'explosion
 Partie simulation d'espace extraplanétaire 2D : Interface de sauvegarde et de téléchargement
 
 ![alt text](https://github.com/TritzA/ProjetIntegrateur_Cours4SIM/blob/main/images/charger%20une%20partie%20personnalisé.PNG)
+
+### Partie Jeu
 
 Partie extension bonus : Sélection des niveaux
 
