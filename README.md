@@ -38,7 +38,7 @@ Partie simulation d'espace extraplanétaire 2D : Exemple d'explosion
 
 ![alt text](https://github.com/TritzA/ProjetIntegrateur_Cours4SIM/blob/main/images/collision.PNG)
 
-Partie simulation d'espace extraplanétaire 2D : Interface de sauvegarde et de téléchargement
+Partie simulation d'espace extraplanétaire 2D : Interface d'enregistrement et de téléchargement de simulations
 
 ![alt text](https://github.com/TritzA/ProjetIntegrateur_Cours4SIM/blob/main/images/charger%20une%20partie%20personnalisé.PNG)
 
