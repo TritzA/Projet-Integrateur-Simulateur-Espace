@@ -1,4 +1,4 @@
-# ProjetIntegrateurSimulateurEspace
+# Projet-Integrateur-Simulateur-Espace
 
 Cours : 420-SCD-MA INTÉGRATION DES APPRENTISSAGES EN SCIENCES INFOS ET MATHS
 
