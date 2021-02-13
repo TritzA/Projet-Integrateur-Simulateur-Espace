@@ -32,13 +32,13 @@ Partie simulation d'espace extraplanétaire 2D : Ajout de satellite
 
 ![alt text](https://github.com/TritzA/ProjetIntegrateur_Cours4SIM/blob/main/images/ajoutSat.PNG)
 
-Partie simulation d'espace extraplanétaire 2D : Interface de sauvegarde et de téléchargement
-
-![alt text](https://github.com/TritzA/ProjetIntegrateur_Cours4SIM/blob/main/images/charger%20une%20partie%20personnalisé.PNG)
-
 Partie simulation d'espace extraplanétaire 2D : Exemple d'explosion 
 
 ![alt text](https://github.com/TritzA/ProjetIntegrateur_Cours4SIM/blob/main/images/collision.PNG)
+
+Partie simulation d'espace extraplanétaire 2D : Interface de sauvegarde et de téléchargement
+
+![alt text](https://github.com/TritzA/ProjetIntegrateur_Cours4SIM/blob/main/images/charger%20une%20partie%20personnalisé.PNG)
 
 Partie extension bonus : Sélection des niveaux
 
