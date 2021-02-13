@@ -11,7 +11,9 @@ Partenaire : Jeanne Castonguay
 Partenaire : Xavier Boucher
 
 Ce dépôt est une archive de mon projet intégrateur de fin d'études collégiales. 
+
 Il a été réalisé dans le cadre de mon quatrième cours de programmation au CEGEP. 
+
 Nous avons réussi à terminer le projet malgré le fait qu'il ait été réalisé en partie en télétravail.
 
 ## Représentation
