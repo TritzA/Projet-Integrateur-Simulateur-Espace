@@ -14,7 +14,7 @@ Ce dépôt est une archive de mon travail de quatrième cours de programmation d
 
 ## Représentation
 
-### Decription de l'évènement et classement (notre nom d'équipe est MSL)
+### Illustration des fonctionnalités principales du projet
 
 Acceuil
 
