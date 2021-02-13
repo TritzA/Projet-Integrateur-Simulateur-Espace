@@ -10,7 +10,7 @@ Partenaire : Jeanne Castonguay
 
 Partenaire : Xavier Boucher
 
-Ce dépôt est une archive de mes travaux du quatrième cours de programmation de mon DEC en informatique.
+Ce dépôt est une archive de mon travail de quatrième cours de programmation de mon DEC en informatique.
 
 ## Représentation
 
